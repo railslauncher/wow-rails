@@ -2,7 +2,7 @@
 
 Rails asset pipeline integration for [WOW](https://github.com/matthieua/WOW)
 
-WOW version `1.0.2`
+WOW version `1.1.2`
 
 ## Installation
 
